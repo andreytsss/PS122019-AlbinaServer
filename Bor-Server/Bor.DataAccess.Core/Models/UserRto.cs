@@ -21,6 +21,6 @@ namespace Bor.DataAccess.Core.Models
         public List<VirtualExpenseRto> VirtualExpenses { get; set; }
         public List<RejectExpenseRto> RejectExpenses { get; set; }
         public List<AcceptExpenseRto> AcceptExpenses { get; set; }
-        #endregion
+        #endregion 
     }
 }
