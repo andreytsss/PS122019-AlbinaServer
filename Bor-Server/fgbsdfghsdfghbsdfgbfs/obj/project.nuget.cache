@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/UG7RoRk+SmmDYw4FT9mL4yyPTvFpFm2TFnMJ9bYmaz2fWw+vSwKaDjt4ey/JSKbg0GHT761Z0BcdDXtWaPK2Q==",
+  "dgSpecHash": "vemAG5uNhO+rEofujI/oFmLr78t+gQ25n8RNaOGOaTTqeiKG494B7QAP+y32DF/Llj6eKm/W8kEUfx4FAZnKng==",
   "success": true,
-  "projectFilePath": "C:\\Users\\StudentDev\\Documents\\GitHub\\note-ps-122019\\PS122019-AlbinaServer\\Bor-Server\\fgbsdfghsdfghbsdfgbfs\\Bor.DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\StudentDev\\Documents\\GitHub\\note-ps-122019-note\\PS122019-AlbinaServer\\Bor-Server\\fgbsdfghsdfghbsdfgbfs\\Bor.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\StudentDev\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\StudentDev\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",

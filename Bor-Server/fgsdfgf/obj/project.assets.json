@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\StudentDev\\Documents\\GitHub\\note-ps-122019\\PS122019-AlbinaServer\\Bor-Server\\fgsdfgf\\Bor.Core.csproj",
+      "projectUniqueName": "C:\\Users\\StudentDev\\Documents\\GitHub\\note-ps-122019-note\\PS122019-AlbinaServer\\Bor-Server\\fgsdfgf\\Bor.Core.csproj",
       "projectName": "Bor.Core",
-      "projectPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\note-ps-122019\\PS122019-AlbinaServer\\Bor-Server\\fgsdfgf\\Bor.Core.csproj",
+      "projectPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\note-ps-122019-note\\PS122019-AlbinaServer\\Bor-Server\\fgsdfgf\\Bor.Core.csproj",
       "packagesPath": "C:\\Users\\StudentDev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\note-ps-122019\\PS122019-AlbinaServer\\Bor-Server\\fgsdfgf\\obj\\",
+      "outputPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\note-ps-122019-note\\PS122019-AlbinaServer\\Bor-Server\\fgsdfgf\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

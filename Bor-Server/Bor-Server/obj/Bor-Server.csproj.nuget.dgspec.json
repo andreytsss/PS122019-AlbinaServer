@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\StudentDev\\Documents\\GitHub\\note-ps-122019\\PS122019-AlbinaServer\\Bor-Server\\Bor-Server\\Bor-Server.csproj": {}
+    "C:\\Users\\StudentDev\\Documents\\GitHub\\note-ps-122019-note\\PS122019-AlbinaServer\\Bor-Server\\Bor-Server\\Bor-Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\StudentDev\\Documents\\GitHub\\note-ps-122019\\PS122019-AlbinaServer\\Bor-Server\\Bor-Server\\Bor-Server.csproj": {
+    "C:\\Users\\StudentDev\\Documents\\GitHub\\note-ps-122019-note\\PS122019-AlbinaServer\\Bor-Server\\Bor-Server\\Bor-Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\StudentDev\\Documents\\GitHub\\note-ps-122019\\PS122019-AlbinaServer\\Bor-Server\\Bor-Server\\Bor-Server.csproj",
+        "projectUniqueName": "C:\\Users\\StudentDev\\Documents\\GitHub\\note-ps-122019-note\\PS122019-AlbinaServer\\Bor-Server\\Bor-Server\\Bor-Server.csproj",
         "projectName": "Bor-Server",
-        "projectPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\note-ps-122019\\PS122019-AlbinaServer\\Bor-Server\\Bor-Server\\Bor-Server.csproj",
+        "projectPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\note-ps-122019-note\\PS122019-AlbinaServer\\Bor-Server\\Bor-Server\\Bor-Server.csproj",
         "packagesPath": "C:\\Users\\StudentDev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\note-ps-122019\\PS122019-AlbinaServer\\Bor-Server\\Bor-Server\\obj\\",
+        "outputPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\note-ps-122019-note\\PS122019-AlbinaServer\\Bor-Server\\Bor-Server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\StudentDev\\Documents\\GitHub\\note-ps-122019\\PS122019-AlbinaServer\\Bor-Server\\Ydada\\Bor.DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\StudentDev\\Documents\\GitHub\\note-ps-122019-note\\PS122019-AlbinaServer\\Bor-Server\\Ydada\\Bor.DataAccess.csproj",
       "projectName": "Bor.DataAccess",
-      "projectPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\note-ps-122019\\PS122019-AlbinaServer\\Bor-Server\\Ydada\\Bor.DataAccess.csproj",
+      "projectPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\note-ps-122019-note\\PS122019-AlbinaServer\\Bor-Server\\Ydada\\Bor.DataAccess.csproj",
       "packagesPath": "C:\\Users\\StudentDev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\note-ps-122019\\PS122019-AlbinaServer\\Bor-Server\\Ydada\\obj\\",
+      "outputPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\note-ps-122019-note\\PS122019-AlbinaServer\\Bor-Server\\Ydada\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

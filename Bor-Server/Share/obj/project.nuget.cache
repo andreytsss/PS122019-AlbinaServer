@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SuDgyA2b0EgGuQvzlpil8zWumY17eY1MIVEuVa6NTqMhYYisozvlnzCWk0FrojOGAtugv+ydG0p26tsWAsgDjQ==",
+  "dgSpecHash": "XXrBUW4elCWD2gv3+pWOCtf7fueTTKt3yWOrIrPNFcscuxiC3yRJ9L8bRuPGWQyMPuheiqGT+l55FktfwJY0GQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\StudentDev\\Documents\\GitHub\\note-ps-122019\\PS122019-AlbinaServer\\Bor-Server\\Share\\Shareds.csproj",
+  "projectFilePath": "C:\\Users\\StudentDev\\Documents\\GitHub\\note-ps-122019-note\\PS122019-AlbinaServer\\Bor-Server\\Share\\Shareds.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Ошибка чтения файла кэша C:\\Users\\StudentDev\\Documents\\GitHub\\note-ps-122019\\PS122019-AlbinaServer\\Bor-Server\\Share\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }
