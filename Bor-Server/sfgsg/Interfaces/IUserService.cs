@@ -14,5 +14,6 @@ namespace Albina.BusinesLogic.Core.Interfaces
         Task<UserInformationBlo> Update(UserIdentityBlo userIdentityBlo, UserUpdateBlo userUpdateBlo);
         Task<UserInformationBlo> Get(int userId);
         Task<bool> DoesExist(int numberPrefix, int number);
+        Task Update(UserIdentityBlo userIdentityBlo);
     }
 }

@@ -6,7 +6,15 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+    <PackageReference Include="ServiceStack.Interfaces" Version="5.13.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Albina.DataAccess.Core\Bor.DataAccess.Core.csproj" />
+    <ProjectReference Include="..\fgdfghsfg\Albina.BusinesLogic.csproj" />
+    <ProjectReference Include="..\fgsdfgf\Bor.Core.csproj" />
+    <ProjectReference Include="..\sfgsg\Albina.BusinesLogic.Core.csproj" />
   </ItemGroup>
 
 
